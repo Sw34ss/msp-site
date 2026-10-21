@@ -1,0 +1,8 @@
+# Used by Cloudflare Pages. GitHub Pages ignores this file.
+# If you add analytics, a map, a font service or any embed, update the Content-Security-Policy line.
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Content-Security-Policy: default-src 'self'; img-src 'self' data:; style-src 'self'; script-src 'self'; form-action 'self' https://formspree.io; base-uri 'self'; frame-ancestors 'none'
